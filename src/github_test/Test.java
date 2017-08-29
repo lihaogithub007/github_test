@@ -6,5 +6,6 @@ public class Test {
 		//哈哈
 		System.out.println("Hello World");
 		System.out.println("哈哈");
+		System.out.println("我是主干");
 	}
 }
